@@ -1,5 +1,8 @@
 _repo: Le-seduzioni-Le-vergini-folli_61548
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61548-h/images/cover.jpg
 creator:
   author:
     agent_name: Guglielminetti, Amalia
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '44947'
     url: http://www.gutenberg.org/2009/agents/44947
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61548#Le-seduzioni-Le-vergini-folli
 gutenberg_issued: '2020-03-02'
 gutenberg_type: Text
 identifiers:
